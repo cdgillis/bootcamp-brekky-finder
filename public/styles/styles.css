@@ -113,6 +113,8 @@ footer {
   left: 0;
   bottom: 0;
   padding: 2vh;
+  opacity: 0.9;
+  margin-bottom: 0;
 }
 
 #explicit {
