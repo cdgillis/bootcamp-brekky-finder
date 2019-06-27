@@ -1,6 +1,6 @@
 # BOOTCAMP BREAKFAST FINDER
 
-## Group Project #2
+## Satirical site for breakfast inspiration
 
 How our app works:
 
@@ -8,6 +8,8 @@ You have two choices:
 
 1. Find a recipe (choices are limited!); OR
 2. Submit your favourite recipe
+    * 1st box: input food title 
+    * 2nd box: input link to food image
 
 Technologies used:
 
@@ -25,4 +27,4 @@ Technologies used:
 * Heroku
 * Animate.css
 
-Website: https://sheltered-inlet-43277.herokuapp.com/
+Website: https://bootcampbreakfastfinder.herokuapp.com/
