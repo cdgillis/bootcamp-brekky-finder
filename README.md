@@ -1,4 +1,4 @@
-# BOOTCAMP BREAKFAST FINDER
+# [BOOTCAMP BREAKFAST FINDER](https://bootcampbreakfastfinder.herokuapp.com/)
 
 ## Satirical site for breakfast inspiration
 
@@ -27,4 +27,4 @@ Technologies used:
 * Heroku
 * Animate.css
 
-Website: https://bootcampbreakfastfinder.herokuapp.com/
+**[View Website](https://bootcampbreakfastfinder.herokuapp.com/)**
