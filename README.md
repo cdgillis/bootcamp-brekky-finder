@@ -27,4 +27,10 @@ Technologies used:
 * Heroku
 * Animate.css
 
+---
+
 **[View Website](https://bootcampbreakfastfinder.herokuapp.com/)**
+
+---
+
+Enjoy!
